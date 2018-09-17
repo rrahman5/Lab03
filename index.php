@@ -6,7 +6,7 @@
 		<h1 class="studentName">Homepage</h1>
 	</div>
 </header>
-<?php include "inc/nav.inc"; ?>
+<?php include "inc/navigation.inc"; ?>
 		
 	<div class="studentProfile">
 		<h2>Jonathan Roman</h2>
