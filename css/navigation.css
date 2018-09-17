@@ -1,0 +1,28 @@
+a {color: #333333;}
+
+a:link {text-decoration: none;
+	color: #333333;}
+
+a:hover {color: pink;
+	background-color: white;
+	padding: 5px;}
+
+.menu li .is-current {background-color: white;
+	padding: 5px;
+	border: 2px solid #333333;}
+
+.menu {text-align: center;}
+
+.menu ul {
+	list-style-type: none;
+	display: flex;
+	flex-flow: wrap;
+	justify-content: center;
+}
+
+.menu li {
+	margin: 10px;
+	flex-basis: 50px;
+	flex-shrink: 1;
+	flex-grow: 1;
+}
