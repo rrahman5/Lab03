@@ -9,7 +9,7 @@
 <body>
 	<div class="header">
 		<h3 class="studentName">Jonathan Roman</h3>
-		<img src="" alt="" class="photo">
+		<img src="images/jonathan.jpg" alt="jonathan" class="photo">
 	</div>
 		
 
