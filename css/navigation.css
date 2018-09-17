@@ -11,14 +11,16 @@ a:hover {color: pink;
 	padding: 5px;
 	border: 2px solid #333333;}
 
-.menu {text-align: center;}
+.menu {
+	text-align: center;
+	font-size: 120%;
+}
 
 .menu ul {
 	list-style-type: none;
 	display: flex;
 	flex-flow: wrap;
 	justify-content: center;
-	font-size: 120%;
 }
 
 .menu li {
