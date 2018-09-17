@@ -7,7 +7,7 @@
 		<img src="images/victoria.jpg" alt="victoria" class="photo">
 	</div>
 </header>
-<?php include "inc/nav.inc"; ?>
+<?php include "inc/navigation.inc"; ?>
 <h2>Study Spaces</h2>
 	<div class="contentBlock">
 		<p>In terms of my academics at the University of Rochester, I have found my study places to be among that which I consider most important to my academic success. I tend to prefer mostly quiet, cozy places to study. In general, I find a loud and crowded space to be too distracting when trying to accomplish work. My favorite study space on campus is Rettner because of the natural lighting, bright colors, and generally quiet atmosphere. It is also very close to much of campus, which is a big bonus.</p>

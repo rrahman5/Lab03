@@ -7,7 +7,7 @@
 		<img src="images/jonathan.jpg" alt="jonathan" class="photo">
 	</div>
 </header>
-<?php include "inc/nav.inc"; ?>
+<?php include "inc/navigation.inc"; ?>
 
 	<div class="contentBlock">
 		<p></p>
