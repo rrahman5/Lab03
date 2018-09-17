@@ -8,7 +8,13 @@ body {
 }
 
 h1 {
-	font-size: 300%;
+	text-align: center;
+}
+
+h2 { 
+	font-style : italic;
+	font-weight : normal;
+	margin-bottom : 0px;
 }
 
 figure {
