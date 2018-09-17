@@ -1,17 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="utf-8"/>
-	<title>Lab 03 - Website</title>
-	<link rel="stylesheet" href="styles/styles.css">
-</head>
+<?php include "inc/html-top.inc"; ?>
 
 <body>
+<header>
 	<div class="header">
 		<h3 class="studentName">Jonathan Roman</h3>
 		<img src="" alt="" class="photo">
 	</div>
-		
+</header>
+<?php include "inc/nav.inc"; ?>
 
 	<div class="contentBlock">
 		<p></p>
@@ -29,6 +25,7 @@
 		<p></p>
 	</div>
 
-<script src=""> </script>
+<script src="http://code.jquery.com/jquery.js"></script>
+<script src="js/menu-highlighter.js"></script>
 </body>
 </html>
