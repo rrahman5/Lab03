@@ -1,11 +1,12 @@
 
 
 a:link {text-decoration: none;
-	color: #333333;}
+	color: #5092C9;}
 
-.menu li .is-current {background-color: white;
+.menu li .is-current {
+	background-color: white;
 	padding: 5px;
-	border: 2px solid #333333;}
+	border: 2px solid #274060;}
 
 .menu {
 	text-align: center;
