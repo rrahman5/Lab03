@@ -4,12 +4,14 @@ body {
 	width: 90%;
 	max-width: 960px;
 	font-family: 'Slabo 27px', serif;
-	background-color: #F0F8FF;
+	background-color: #EFF1FF;
+	color: #2C2C34;
 }
 
 h1 {
 	text-align: center;
 	font-size: 300%;
+	color: #B18FCF;
 
 }
 
@@ -17,6 +19,7 @@ h2 {
 	font-style : italic;
 	font-weight : normal;
 	margin-bottom : 0px;
+	color: #B18FCF;
 }
 
 figure {
@@ -33,3 +36,5 @@ ul {
 	list-style-type: none;
 	padding-left: 0px;
 }
+
+a {color: #88BBD6;}
