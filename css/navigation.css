@@ -3,7 +3,7 @@
 a:link {text-decoration: none;
 	color: #333333;}
 
-a:hover {color: pink;
+a:hover {color: #B18FCF;
 	background-color: white;
 	padding: 5px;}
 
@@ -29,3 +29,7 @@ a:hover {color: pink;
 	flex-shrink: 1;
 	flex-grow: 1;
 }
+
+.menu a:hover {color: #B18FCF;
+	background-color: white;
+	padding: 5px;}

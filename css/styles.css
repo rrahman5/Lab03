@@ -11,7 +11,7 @@ body {
 h1 {
 	text-align: center;
 	font-size: 300%;
-	color: #B18FCF;
+	color: #274060;
 
 }
 
@@ -19,7 +19,7 @@ h2 {
 	font-style : italic;
 	font-weight : normal;
 	margin-bottom : 0px;
-	color: #B18FCF;
+	color: #274060;
 }
 
 figure {
@@ -38,3 +38,6 @@ ul {
 }
 
 a {color: #88BBD6;}
+
+a:hover {color: #B18FCF;
+	padding: 5px;}
