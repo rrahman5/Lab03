@@ -24,6 +24,8 @@ h2 {
 	color: #274060;
 }
 
+.studentProfile figure{ clear:right; }
+
 figure{
 	float: right;
 }
