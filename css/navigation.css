@@ -1,5 +1,3 @@
-
-
 a:link {text-decoration: none;
 	color: #5092C9;}
 
@@ -27,6 +25,8 @@ a:link {text-decoration: none;
 	flex-grow: 1;
 }
 
-.menu a:hover {color: #B18FCF;
+.menu a:hover {
+	color: #B18FCF;
 	background-color: white;
-	padding: 5px;}
+	padding: 5px;
+}

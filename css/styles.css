@@ -37,7 +37,8 @@ ul {
 	padding-left: 0px;
 }
 
-a {color: #5092C9;}
+a {color: #5092C9;
+	margin-bottom: 30px;}
 
 a:hover {color: #B18FCF;
 	padding: 5px;}
