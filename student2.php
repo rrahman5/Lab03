@@ -4,12 +4,14 @@
 <header>
 	<div class="header">
 		<h1 class="studentName">Victoria Bongard</h1>
-		<img src="images/victoria.jpg" alt="victoria" class="photo">
+		
 	</div>
 </header>
 <?php include "inc/navigation.inc"; ?>
-<h2>Study Spaces</h2>
+
 	<div class="contentBlock">
+		<figure><img src="images/victoria.jpg" alt="victoria" class="photo"></figure>
+		<h2>Study Spaces</h2>
 		<p>In terms of my academics at the University of Rochester, I have found my study places to be among that which I consider most important to my academic success. I tend to prefer mostly quiet, cozy places to study. In general, I find a loud and crowded space to be too distracting when trying to accomplish work. My favorite study space on campus is Rettner because of the natural lighting, bright colors, and generally quiet atmosphere. It is also very close to much of campus, which is a big bonus.</p>
 		<p>While the new iZone has not been open for long, so far I have found it to be a really nice study area. I also enjoy the Reference Stacks in Rush Rhees, Robinson Library, and the Art and Music Library since both are warm and quiet. I find Carlson, the Stacks, Q and I, and the first floor of Morey to be less conducive to studying, though they are still acceptable places. At the bottom of the totem pole I place Gleason because it is too loud and distracting for me to possibly be productive.</p>
 	</div>

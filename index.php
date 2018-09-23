@@ -19,6 +19,7 @@
 		<h2>Victoria Bongard</h2>
 		<figure><img src="images/victoria.jpg" alt="victoria" class="photo"></figure>
 		<p>My name is Victoria Bongard and I am a junior attending the University of Rochester. I am double majoring in Film and Media Studies and Digital Media Studies with a minor in Computer Science. I was born in Durham, North Carolina and then spent a year of my infancy in New York City before moving to Blacksburg, Virginia for most of the remainder of my childhood. My family moved to Bloomington, Indiana during the summer before I started high school. Two months after moving I began attending Chatham Hall, an all-girls boarding school located in rural southern Virginia. While my family has lived in Indiana for the past 6 years, I have only ever spent breaks there. Thus, I consider myself to be from Virginia and occasionally Indiana, too.</p>
+
 		<a href="http://csc174.org/assignment02/vbongard/assignment02/home.php">Victoria's Assignment02</a>
 	</div>
 

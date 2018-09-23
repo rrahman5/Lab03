@@ -4,12 +4,12 @@
 <header>
 	<div class="header">
 		<h1 class="studentName">Jayda Medina</h1>
-		<img src="images/jayda.jpg" alt="jayda" class="photo">
-	</div>
+			</div>
 </header>
 <?php include "inc/navigation.inc"; ?>	
 
 	<div class="contentBlock">
+		<figure><img src="images/jayda.jpg" alt="jayda" class="photo"></figure>
 		<h2>Classes</h2>
 		<p>During my first semester at the University of Rochester, I took Beginning American Sign Language, CSC170, CSC161, and MTH140. That semester I made Dean’s List and was invited to join the National Society of Collegiate Scholars. The following semester I took CSC171, MTH150, Beginning American Sign Language II, and WRT105 RAGE!. My humanities cluster is American Sign Language and I’m still deciding my Social Science cluster. I am currently deciding between Gender and Women’s studies and Anthropology. This semester I’m taking Intro to Medical Anthropology, which can be used towards either cluster. I’m doing a human and computer interactions track, with the goal of getting a Bachelor of Arts for Computer Science.</p>
 	</div>
