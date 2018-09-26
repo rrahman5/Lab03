@@ -17,14 +17,15 @@
 
 
 <figure><img src="images/victoria.jpg" alt="victoria" class="photo"></figure>
-<div class="contentBlock">
-		<p>The next logical step in my journey is figuring out my post-grad plans. While I still have lots to figure out, and lots of time to do it, I have been thinking recently about what exactly I would like to do and where I would like to be. I know for a fact that I want to live and work somewhere with winters that are noticeably warmer than those in Rochester. I am interested in film, media, web design, public relations, and marketing, which are skills that I think can be combined easily. I would love to work in media marketing and helping companies grow their brand.</p>
+
+	<div class="contentBlock">
+		<p>My first official paid job was as a camp counselor and photographer at the Chatham Hall summer camps (held at my high school). I had various volunteer jobs before then, including as a film camp counselor, another camp counselor, a production assistant, and more. This past summer I worked as a paid counselor at Indiana University’s Digital Cinema Academy camp teaching high school students about film and videography.</p>
+		<p>During my second year at college I began three new positions. First, I got the job of a Study Zone Leader, which is a peer academic support position run through the Center for Excellence in Teaching and Learning. My second position was as a paid notetaker, meaning I take notes for any student(s) who may be unable to do so. This position is managed by the Office for Disability Resources. The third position was a Meridian, meaning I give tours and assist the admissions office at the University of Rochester. Though it keeps me busy, I still maintain all three of these positions and just this semester I was promoted to the position of Head Study Zone Leader.</p>
 	</div>
 	
 	
 	<figure><img src="images/jayda.jpg" alt="jayda" class="photo"></figure>
 	<div class="contentBlock">
-		<h2>Jobs</h2>
 		<p>My last job was as a Recreation Counselor for Hofstra Summer Camps. There I watched a group of fifth grade boys and eighth grade girls and led them through recreational activities. During my last week I assisted a photography counselor with a different group of kids. Before that job, I had a paid part in the play Sistas on Fire, a show about the hardships African American women face in America. My first job was an activities specialist for Sesame Flyers. There I taught java to 6th graders during an after school program. Outside of work, I’ve done many hours of community service. In high school I started a Toys for Tots drive. I’ve also done campaign work in a mayoral election. At Grace Cathedral I worked as an Audiovisual board operator.</p>
 	</div>
 

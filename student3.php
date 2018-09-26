@@ -26,10 +26,7 @@
 		<p>When I’m not in class, or studying, I’m doing one of my many extra curriculars. Last semester, some friends and I started Students for Chronic Illness Visibility. This is our first semester as a SA recognized club. We are devoted to spreading awareness about chronic illnesses and promoting accessibility and proper accommodations on campus. One of our goals this year is to create a lending library, where people can borrow braces, mobility aids, and anything else that might getting around campus with a chronic illness easier. We are also working towards getting students with disabilities priority in U of R’s housing lottery. Outside of SCIV, I’m also a member of Strong Jugglers and TOOP. Strong Jugglers is a circus arts club where we perform juggling, flow arts, balancing acts, and other circus arts. TOOP is a student run theatre company. </p>
 	</div>
 
-	<div class="contentBlock">
-		<h2>Jobs</h2>
-		<p>My last job was as a Recreation Counselor for Hofstra Summer Camps. There I watched a group of fifth grade boys and eighth grade girls and led them through recreational activities. During my last week I assisted a photography counselor with a different group of kids. Before that job, I had a paid part in the play Sistas on Fire, a show about the hardships African American women face in America. My first job was an activities specialist for Sesame Flyers. There I taught java to 6th graders during an after school program. Outside of work, I’ve done many hours of community service. In high school I started a Toys for Tots drive. I’ve also done campaign work in a mayoral election. At Grace Cathedral I worked as an Audiovisual board operator.</p>
-	</div>
+	
 
 <script src="http://code.jquery.com/jquery.js"></script>
 <script src="js/menu-highlighter.js"></script>
