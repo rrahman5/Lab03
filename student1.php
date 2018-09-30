@@ -1,6 +1,7 @@
 <?php include "inc/html-top.inc"; ?>
 
 <body>
+	<div class="content">
 <header>
 	<div class="header">
 		<h1 class="studentName">Jonathan Roman</h1>
