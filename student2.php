@@ -4,9 +4,9 @@
 <header>
 	<div class="header">
 		<h1 class="studentName">Victoria Bongard</h1>
-		
 	</div>
 </header>
+
 <?php include "inc/navigation.inc"; ?>
 
 
