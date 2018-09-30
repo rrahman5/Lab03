@@ -24,8 +24,7 @@
 	</div>
 	
 	
-	<figure><img src="images/jayda.jpg" alt="jayda" class="photo"></figure>
-	<div class="contentBlock">
+<figure><img src="images/jayda.jpg" alt="jayda" class="photo"></figure>	<div class="contentBlock">
 		<p>My last job was as a Recreation Counselor for Hofstra Summer Camps. There I watched a group of fifth grade boys and eighth grade girls and led them through recreational activities. During my last week I assisted a photography counselor with a different group of kids. Before that job, I had a paid part in the play Sistas on Fire, a show about the hardships African American women face in America. My first job was an activities specialist for Sesame Flyers. There I taught java to 6th graders during an after school program. Outside of work, I’ve done many hours of community service. In high school I started a Toys for Tots drive. I’ve also done campaign work in a mayoral election. At Grace Cathedral I worked as an Audiovisual board operator.</p>
 	</div>
 
