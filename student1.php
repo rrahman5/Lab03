@@ -10,8 +10,11 @@
 <?php include "inc/navigation.inc"; ?>
 		
 <div class="studentProfile">
+
 	<h2>Jonathan Roman</h2>
+	
 	<p>My name is Jonathan Roman. I'm from Tenafly, NJ and was born September 6th, 1997. I currently attend the University of Rochester with a major in Computer Science. MY hobbies include playing video games and basketball, both of which I participate in groups around campus for.</p>
+
 	<a href="http://csc174.org/assignment02/jroman8/Assignment02/">Jonathan's Assignment02</a>
 </div>
 

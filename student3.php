@@ -10,12 +10,15 @@
 <?php include "inc/navigation.inc"; ?>	
 
 <div class="studentProfile">
+
 		<h2>Jayda Medina</h2>
-		<figure><img src="images/jayda.jpg" alt="jayda" class="photo"></figure>
+
+		
 		<p>I was born in Manhattan, NY to an immigrant mother from Guyana and a Puerto Rican father. I grew up in Brooklyn, NY. I went to Hebrew Educational Society for pre-kindergarten. Afterwards, I went down the street to P.S.115 for kindergarten - fifth grade. For Junior High I went to I.S.211. In eighth grade I got into Academy for Young Writers, and that’s where I spent the rest of grade school. Recently I moved from Brooklyn, NY to Long Island, but most of my family still lives in Brooklyn. I’ve visited my mother’s home country of Guyana, and the culture is a lot different than it is in America. However, I have never visited Puerto Rican. I am now a student at the University of Rochester.</p>
 		<a href="http://csc174.org/assignment02/jmedina/">Jayda's Assignment02</a>
 	</div>
 
+<figure><img src="images/jayda.jpg" alt="jayda" class="photo"></figure>
 
 	<div class="contentBlock">
 		<h2>Classes</h2>
