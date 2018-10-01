@@ -15,6 +15,20 @@
 		
 		<div class="pages">	
 
+				
+			<a href="student3.php">	
+				<div class="page" id="jay">
+
+					<h2>Jayda Medina</h2>
+
+					<figure class="imglink"><img src="images/jayda.jpg" alt="jayda" class="photo"></figure>	
+
+					<p class="info">My last job was as a Recreation Counselor for Hofstra Summer Camps. There I watched a group of fifth grade boys and eighth grade girls and led them through recreational activities. </p>
+
+				</div>
+			</a>
+			
+
 			<a href="student1.php">
 
 				<div class="page" id="jon">
@@ -41,18 +55,7 @@
 
 				</div>
 			</a>
-			
-			<a href="student3.php">	
-				<div class="page" id="jay">
-
-					<h2>Jayda Medina</h2>
-
-					<figure class="imglink"><img src="images/jayda.jpg" alt="jayda" class="photo"></figure>	
-
-					<p class="info">My last job was as a Recreation Counselor for Hofstra Summer Camps. There I watched a group of fifth grade boys and eighth grade girls and led them through recreational activities. </p>
-
-				</div>
-			</a>
+	
 
 		</div>
 

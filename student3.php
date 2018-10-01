@@ -18,7 +18,6 @@
 				<h2> About </h2>
 
 				<p>I was born in Manhattan, NY to an immigrant mother from Guyana and a Puerto Rican father. I grew up in Brooklyn, NY. I went to Hebrew Educational Society for pre-kindergarten. Afterwards, I went down the street to P.S.115 for kindergarten - fifth grade. For Junior High I went to I.S.211. In eighth grade I got into Academy for Young Writers, and that’s where I spent the rest of grade school. Recently I moved from Brooklyn, NY to Long Island, but most of my family still lives in Brooklyn. I’ve visited my mother’s home country of Guyana, and the culture is a lot different than it is in America. However, I have never visited Puerto Rican. I am now a student at the University of Rochester.</p>
-				<a href="http://csc174.org/assignment02/jmedina/">Jayda's Assignment02</a>
 			</div>
 
 			<div class="left">
@@ -33,7 +32,7 @@
 
 				<h2>Interests</h2>
 
-				<p>When I’m not in class, or studying, I’m doing one of my many extra curriculars. Last semester, some friends and I started Students for Chronic Illness Visibility. This is our first semester as a SA recognized club. We are devoted to spreading awareness about chronic illnesses and promoting accessibility and proper accommodations on campus. One of our goals this year is to create a lending library, where people can borrow braces, mobility aids, and anything else that might getting around campus with a chronic illness easier. We are also working towards getting students with disabilities priority in U of R’s housing lottery. Outside of SCIV, I’m also a member of Strong Jugglers and TOOP. Strong Jugglers is a circus arts club where we perform juggling, flow arts, balancing acts, and other circus arts. TOOP is a student run theatre company.</p>
+				<p>When I’m not in class, or studying, I’m doing one of my many extra curriculars. Last semester, some friends and I started Students for Chronic Illness Visibility. This is our first semester as a SA recognized club. We are devoted to spreading awareness about chronic illnesses and promoting accessibility and proper accommodations on campus. One of our goals this year is to create a lending library, where people can borrow braces, mobility aids, and anything else that might getting around campus with a chronic illness easier. Outside of SCIV, I’m also a member of Strong Jugglers and TOOP. Strong Jugglers is a circus arts club where we perform juggling, flow arts, balancing acts, and other circus arts. TOOP is a student run theatre company.</p>
 
 			</div>
 
