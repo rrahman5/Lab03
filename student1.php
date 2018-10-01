@@ -10,7 +10,7 @@
 
 		<div class="content">
 			
-			<?php include "inc/navigation.inc"; ?>
+			<?php $page = 'jonathan'; include "inc/navigation.inc"; ?>
 
 			<div class="about">
 				<figure class="profilepic"><img src="images/jonathan.jpg" alt="jonathan" class="photo"></figure>
