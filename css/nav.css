@@ -1,0 +1,47 @@
+ul {
+
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+
+}
+
+li {
+
+	float: left;
+
+	width: 21%;
+	height: 100%;
+
+	margin-left: 2%;
+	margin-right: 1%;
+	text-align: center;
+
+}
+
+nav a {
+
+	display: block;
+
+	padding: 3px;
+
+	height: 9vh;
+
+	border-radius: 10px;
+
+	background: radial-gradient(#b4bac4, #7887a0);
+
+	text-decoration: none;
+	font-size: 1.5em;
+	color: #332d2a;
+
+	border: solid rgba(93, 105, 124, .5) 1px;
+	box-shadow: 0px 0px 10px grey;
+
+}
+
+nav a:hover {
+	background: radial-gradient(#d5dce2, #9ba1a5);
+	border: solid rgba(201, 211, 219, .5) 1px;
+	box-shadow: 0px 0px 10px #d9dde0;
+}

@@ -2,17 +2,18 @@
 
 	<body>
 
+		<header>
+			<div class="header">
+				<h1 class="studentName">Victoria Bongard</h1>
+			</div>
+		</header>
+
 		<div class="content">
-			<header>
-				<div class="header">
-					<h1 class="studentName">Victoria Bongard</h1>
-				</div>
-			</header>
 
 			<?php include "inc/navigation.inc"; ?>
 
 			<div class="about">
-				<figure><img src="images/victoria.jpg" alt="victoria" class="photo"></figure>
+				<figure class="profilepic"><img src="images/victoria.jpg" alt="victoria" class="photo"></figure>
 
 				<h2>About </h2>
 

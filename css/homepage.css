@@ -1,0 +1,99 @@
+body {
+
+	margin: 0;
+	padding: 0;
+
+}
+
+header {
+
+	margin: 0;
+	padding: 0;
+
+	grid-row: 1;
+	grid-column: 1 / 4;
+
+	text-align: center;
+
+}
+
+.pages {
+
+	margin: 0;
+	padding: 0;
+
+	display: grid;
+
+	grid-template-columns: 35vw 30vw 35vw;
+
+}
+
+.homepage h2 {
+
+	padding: 0;
+	margin: 0;
+
+	text-align: center;
+}
+
+.page {
+
+	height: 100%;
+
+}
+#jon {
+
+	grid-row: 2;
+	grid-column: 1;
+
+}
+
+#vic {
+
+	grid-row: 2;
+	grid-column: 2;
+}
+
+#jay {
+
+	grid-row: 2;
+	grid-column: 3;
+}
+
+/*------Images------*/
+.imglink {
+
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	overflow: hidden;
+
+}
+
+/*------Text-------*/
+
+.info {
+	padding: 7px;
+	font-size: .9em;
+}
+
+.homepage a {
+
+	width: 90%;
+	margin-left: 2%;
+
+	border-radius: 25px;
+
+	border: solid rgba(93, 105, 124, .5) 1px;
+	background: radial-gradient(#b4bac4, #7887a0);
+	box-shadow: 0px 0px 15px grey;
+	
+	color: #332d2a;
+	text-decoration: none;
+}
+
+.homepage a:hover {
+	background: radial-gradient(#d5dce2, #9ba1a5);
+	border: solid rgba(201, 211, 219, .5) 1px;
+	box-shadow: 0px 0px 10px #d9dde0;
+}

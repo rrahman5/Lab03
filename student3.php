@@ -2,18 +2,18 @@
 
 	<body>
 
-		<div class="content">
+		<header>
+			<div class="header">
+				<h1 class="studentName">Jayda Medina</h1>
+			</div>
+		</header>
 
-			<header>
-				<div class="header">
-					<h1 class="studentName">Jayda Medina</h1>
-				</div>
-			</header>
+		<div class="content">
 
 			<?php include "inc/navigation.inc"; ?>	
 
 			<div class="about">
-				<figure><img src="images/jayda.jpg" alt="jayda" class="photo"></figure>
+				<figure class="profilepic"><img src="images/jayda.jpg" alt="jayda" class="photo"></figure>
 						
 				<h2> About </h2>
 

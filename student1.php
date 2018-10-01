@@ -1,18 +1,19 @@
 <?php include "inc/html-top.inc"; ?>
 
 	<body>
-		<div class="content">
 
-			<header>
-				<div class="header">
-					<h1 class="studentName">Jonathan Roman</h1>
-				</div>
-			</header>
+		<header>
+			<div class="header">
+				<h1 class="studentName">Jonathan Roman</h1>
+			</div>
+		</header>
+
+		<div class="content">
 			
 			<?php include "inc/navigation.inc"; ?>
 
 			<div class="about">
-				<figure><img src="images/jonathan.jpg" alt="jonathan" class="photo"></figure>
+				<figure class="profilepic"><img src="images/jonathan.jpg" alt="jonathan" class="photo"></figure>
 
 				<h2> About </h2>
 
