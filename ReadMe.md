@@ -6,7 +6,7 @@ IA - Sharfuz Shifat
 
 Coder - Reeshad Rahman
 
-Designer - Kaleb
+Designer - Kaleb Chitaphong
 
 ## Ontology
 The relationship that the three individuals have in common is their high involvement in summer camps. The individuals at different capacities worked closely with different kinds of summer camps which is a significant part of thier experience. We want the readers to know about these individuals who worked at summer camps and important aspects of thier lives. That is who are they as a person, what kind of academic path they have chosen for themselves and what their interests are. We believe when poeple see a website with profiles of individuals who have high involvement in summer camps, they would be interested to know the information we presented. The content is similar for all of them and focuses on the similar aspects of all the 3 individuals in focus. 
